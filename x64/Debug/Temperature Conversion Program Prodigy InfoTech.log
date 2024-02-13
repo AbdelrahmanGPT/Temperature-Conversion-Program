@@ -1,0 +1,107 @@
+﻿  Temperature Conversion Program Prodigy InfoTech.cpp
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(154,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(164,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(174,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(234,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(246,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(271,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(283,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(338,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(350,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(376,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(466,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(490,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(506,39): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(580,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(581,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(590,44): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(603,44): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1295,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1334,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1361,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1396,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1440,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1478,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1736,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1748,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1819,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1819,10):
+  consider using '%lld' in the format string
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1819,10):
+  consider using '%Id' in the format string
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1819,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(1901,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2008,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2008,11):
+  consider using '%lld' in the format string
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2008,11):
+  consider using '%Id' in the format string
+  D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2008,11):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2024,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2025,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Temperature Conversion Program Prodigy InfoTech\ABODAstd.h(2372,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Temperature%20Conversion%20Program%20Prodigy%20InfoTech.cpp')
+  
+  Temperature Conversion Program Prodigy InfoTech.vcxproj -> D:\source\repos\Temperature Conversion Program Prodigy InfoTech\x64\Debug\Temperature Conversion Program Prodigy InfoTech.exe
